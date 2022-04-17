@@ -1,0 +1,12 @@
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\bin\Debug\HotelOccupancyform.exe.config
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\bin\Debug\HotelOccupancyform.exe
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\bin\Debug\HotelOccupancyform.pdb
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\bin\Debug\HotelOccupancyform.xml
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.vbproj.AssemblyReference.cache
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.Form1.resources
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.Resources.resources
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.vbproj.GenerateResource.cache
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.vbproj.CoreCompileInputs.cache
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.exe
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.xml
+H:\School\Basic Programming\Weekly Assignment\HotelOccupancyform\HotelOccupancyform\obj\Debug\HotelOccupancyform.pdb
