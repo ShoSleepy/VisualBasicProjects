@@ -1,0 +1,10 @@
+H:\coding\Visual Basics\My first Project\My first Project\bin\Debug\My first Project.exe.config
+H:\coding\Visual Basics\My first Project\My first Project\bin\Debug\My first Project.exe
+H:\coding\Visual Basics\My first Project\My first Project\bin\Debug\My first Project.pdb
+H:\coding\Visual Basics\My first Project\My first Project\obj\Debug\My first Project.csproj.AssemblyReference.cache
+H:\coding\Visual Basics\My first Project\My first Project\obj\Debug\My_first_Project.Form1.resources
+H:\coding\Visual Basics\My first Project\My first Project\obj\Debug\My_first_Project.Properties.Resources.resources
+H:\coding\Visual Basics\My first Project\My first Project\obj\Debug\My first Project.csproj.GenerateResource.cache
+H:\coding\Visual Basics\My first Project\My first Project\obj\Debug\My first Project.csproj.CoreCompileInputs.cache
+H:\coding\Visual Basics\My first Project\My first Project\obj\Debug\My first Project.exe
+H:\coding\Visual Basics\My first Project\My first Project\obj\Debug\My first Project.pdb
