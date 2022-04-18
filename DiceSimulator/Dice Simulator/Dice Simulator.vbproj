@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D1469637-B2F9-4A38-A7D8-16328D585083}</ProjectGuid>
+    <ProjectGuid>{35CEFEDE-F51C-48CE-BE14-B97BE056F28D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>HotelOccupancyform.My.MyApplication</StartupObject>
-    <RootNamespace>HotelOccupancyform</RootNamespace>
-    <AssemblyName>HotelOccupancyform</AssemblyName>
+    <StartupObject>Dice_Simulator.My.MyApplication</StartupObject>
+    <RootNamespace>Dice_Simulator</RootNamespace>
+    <AssemblyName>Dice Simulator</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>HotelOccupancyform.xml</DocumentationFile>
+    <DocumentationFile>Dice Simulator.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>HotelOccupancyform.xml</DocumentationFile>
+    <DocumentationFile>Dice Simulator.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -118,6 +118,42 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die1.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die2.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die3.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die4.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die5.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die6.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die1B.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die2B.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die3B.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die4B.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die5B.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Die6B.BMP" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

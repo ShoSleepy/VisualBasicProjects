@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("HotelOccupancyform")>
+<Assembly: AssemblyTitle("Dice Simulator")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("HotelOccupancyform")>
+<Assembly: AssemblyProduct("Dice Simulator")>
 <Assembly: AssemblyCopyright("Copyright ©  2021")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("0a798b69-fb90-42b1-a6f0-5630abed35af")>
+<Assembly: Guid("c96443fc-5029-43df-b969-5663aaf6d5d4")>
 
 ' Version information for an assembly consists of the following four values:
 '

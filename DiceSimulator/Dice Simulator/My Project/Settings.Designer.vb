@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.HotelOccupancyform.My.MySettings
+        Friend ReadOnly Property Settings() As Global.Dice_Simulator.My.MySettings
             Get
-                Return Global.HotelOccupancyform.My.MySettings.Default
+                Return Global.Dice_Simulator.My.MySettings.Default
             End Get
         End Property
     End Module
