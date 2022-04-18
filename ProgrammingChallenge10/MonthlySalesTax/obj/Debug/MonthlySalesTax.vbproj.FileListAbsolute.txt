@@ -1,0 +1,24 @@
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\bin\Debug\Programming Challenge 10.exe.config
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\bin\Debug\Programming Challenge 10.exe
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\bin\Debug\Programming Challenge 10.pdb
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\bin\Debug\Programming Challenge 10.xml
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming Challenge 10.vbproj.AssemblyReference.cache
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming_Challenge_10.Form1.resources
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming_Challenge_10.Resources.resources
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming Challenge 10.vbproj.GenerateResource.cache
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming Challenge 10.vbproj.CoreCompileInputs.cache
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming Challenge 10.exe
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming Challenge 10.xml
+H:\School\Basic Programming\Weekly Assignment\Programming Challenge 10\Programming Challenge 10\obj\Debug\Programming Challenge 10.pdb
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.vbproj.AssemblyReference.cache
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.vbproj.GenerateResource.cache
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.vbproj.CoreCompileInputs.cache
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\bin\Debug\MonthlySalesTax.exe.config
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\bin\Debug\MonthlySalesTax.exe
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\bin\Debug\MonthlySalesTax.pdb
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\bin\Debug\MonthlySalesTax.xml
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.Form1.resources
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.Resources.resources
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.exe
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.xml
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\ProgrammingChallenge10\MonthlySalesTax\obj\Debug\MonthlySalesTax.pdb
