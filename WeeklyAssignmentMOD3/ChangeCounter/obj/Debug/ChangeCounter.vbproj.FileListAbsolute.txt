@@ -1,0 +1,12 @@
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\bin\Debug\Weekly Assignment MOD 3.exe.config
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\bin\Debug\Weekly Assignment MOD 3.exe
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\bin\Debug\Weekly Assignment MOD 3.pdb
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\bin\Debug\Weekly Assignment MOD 3.xml
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly Assignment MOD 3.vbproj.AssemblyReference.cache
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly_Assignment_MOD_3.Form1.resources
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly_Assignment_MOD_3.Resources.resources
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly Assignment MOD 3.vbproj.GenerateResource.cache
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly Assignment MOD 3.vbproj.CoreCompileInputs.cache
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly Assignment MOD 3.exe
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly Assignment MOD 3.xml
+H:\School\Basic Programming\Weekly Assignment\Weekly Assignment MOD 3\Weekly Assignment MOD 3\obj\Debug\Weekly Assignment MOD 3.pdb

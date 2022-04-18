@@ -1,0 +1,12 @@
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\bin\Debug\Weekly Assignment Program Challenge 2.exe.config
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\bin\Debug\Weekly Assignment Program Challenge 2.exe
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\bin\Debug\Weekly Assignment Program Challenge 2.pdb
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\bin\Debug\Weekly Assignment Program Challenge 2.xml
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\IntegerCompare.vbproj.AssemblyReference.cache
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\Weekly_Assignment_Program_Challenge_2.Form1.resources
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\Weekly_Assignment_Program_Challenge_2.Resources.resources
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\IntegerCompare.vbproj.GenerateResource.cache
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\IntegerCompare.vbproj.CoreCompileInputs.cache
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\Weekly Assignment Program Challenge 2.exe
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\Weekly Assignment Program Challenge 2.xml
+H:\School\2ndSemester\BasicProgramming\WeeklyAssignment\WeeklyAssignmentProgramChallenge2\IntegerCompare\obj\Debug\Weekly Assignment Program Challenge 2.pdb
